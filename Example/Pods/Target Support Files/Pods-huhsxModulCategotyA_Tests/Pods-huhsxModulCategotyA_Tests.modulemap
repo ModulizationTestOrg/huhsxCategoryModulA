@@ -1,0 +1,6 @@
+framework module Pods_huhsxModulCategotyA_Tests {
+  umbrella header "Pods-huhsxModulCategotyA_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
