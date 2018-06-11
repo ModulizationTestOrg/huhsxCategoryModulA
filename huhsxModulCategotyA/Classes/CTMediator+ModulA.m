@@ -12,7 +12,7 @@
 - (UIViewController *)modulAWithShowPicture:(BOOL)showPicture
 {
     NSDictionary *dic = @{@"showPicture":@(showPicture)};
-    return [self performTarget:@"ModulAViewController" action:@"ModulBViewController" params:dic shouldCacheTarget:NO];
+    return [self performTarget:@"ModulAViewController" action:@"ModulAViewController" params:dic shouldCacheTarget:NO];
 }
 
 @end
