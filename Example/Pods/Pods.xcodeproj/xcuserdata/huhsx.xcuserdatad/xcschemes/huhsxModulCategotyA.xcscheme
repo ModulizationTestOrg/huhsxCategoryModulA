@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7B0DEBCD1508A2A63E665A5898A5B964"
+               BlueprintIdentifier = "4C21F5EB0669F1B42A393ADED758D2D7"
                BlueprintName = "huhsxModulCategotyA"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "huhsxModulCategotyA.framework">

@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## CTMediator
+
+MIT
+
+
 ## huhsxModulCategotyA
 
 Copyright (c) 2018 huhaosanxiong <931644603@qq.com>

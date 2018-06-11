@@ -1,9 +1,9 @@
 {
   "name": "huhsxModulCategotyA",
-  "version": "0.1.0",
+  "version": "1",
   "summary": "A short description of huhsxModulCategotyA.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/huhaosanxiong/huhsxModulCategotyA",
+  "homepage": "https://github.com/ModulizationTestOrg/huhsxCategoryModulA.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "huhaosanxiong": "931644603@qq.com"
   },
   "source": {
-    "git": "https://github.com/huhaosanxiong/huhsxModulCategotyA.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ModulizationTestOrg/huhsxCategoryModulA.git",
+    "tag": "1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "huhsxModulCategotyA/Classes/**/*"
+  "source_files": "huhsxModulCategotyA/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
 }
